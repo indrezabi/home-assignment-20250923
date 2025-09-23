@@ -1,4 +1,4 @@
-# Data Quality Analysis (Nord Security)
+# Data Quality Analysis
 
 ## Project Overview
 
