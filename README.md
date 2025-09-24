@@ -1,8 +1,8 @@
 # Data Quality Analysis
 
-## Project Overview
+## Task
 
-This project analyzes URL metadata and reputation signals to uncover mismatches, redirect behavior, and service-level inconsistencies. The goal is to improve data quality and threat detection logic.
+The goal of the task is to find hidden insights in the data, prepare dashboards and present the findings backed up by arguments of potential ways to improve the quality of the data highlighting potential bottlenecks and failure of services.
 
 ## Workflow Summary
 
