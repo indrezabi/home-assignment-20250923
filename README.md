@@ -12,10 +12,10 @@ This project analyzes URL metadata and reputation signals to uncover mismatches,
 - **Looker Studio dashboard** built for final analysis and visualization. Link: https://lookerstudio.google.com/reporting/a2b9684c-1f70-4499-aa93-029c4e8418c6 
 - **Conclusions, recommendations, and further ideas** presented directly in the dashboard
 
-## Data Access Note
+## Important Notes
 
-To run the Colab notebook, manually upload the original data files provided by Nord Security.  
+❗️To run the Colab notebook, manually upload the original data files provided by Nord Security.  
 Due to size limits, files were imported from local storage (not cloud).
 
-Looker report defaults to data from 2015 onward, to exclude legacy records and prevent outdated entries (e.g., from 1936, etc) from skewing the analysis.
+❗️Looker report defaults to data from 2015 onward, to exclude legacy records and prevent outdated entries (e.g., from 1936, etc) from skewing the analysis.
 
